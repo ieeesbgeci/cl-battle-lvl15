@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
 header.masthead {
     padding-top: 10.5rem;
     height:90vh;
@@ -215,4 +217,9 @@ header.masthead {
 #hide
 {
     visibility: hidden;
+}
+
+.cong
+{
+    font-family: 'Cedarville Cursive', cursive;
 }
